@@ -20,6 +20,4 @@ public class Main {
             int sum=fibonacci(n-1)+fibonacci(n-2);
             return sum;
         }
-
-
 }
